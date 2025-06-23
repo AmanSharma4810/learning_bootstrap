@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.bg-img{
+    background-image:url(bootimg/bg.jpg);
+    background-attachment:scroll;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 900px;
+    /* flex-wrap: wrap; */
+
+}
+.sec-img{
+    background-image:url(bootimg/slide-2.jpg);
+    background-attachment:scroll;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 180px; ; 
+
+    
+} 
+
+.cups-img{
+    background-image: url(bootimg/cups.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment:scroll;
+    background-size: contain;
+    width: 50px;
+   
+
+}
